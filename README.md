@@ -1,2 +1,3 @@
 # SPOJ-solutions
-Still adding.
+Still adding my accepted solutions.
+
